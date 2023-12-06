@@ -1,0 +1,40 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "New  Exciting Adventure",
+      "description": "Embark on a thrilling journey through uncharted territories, encountering majestic landscapes and unknown challenges.",
+      "likes_count": 2012
+    },
+    {
+      "id": 2,
+      "title": "Delicious Recipes",
+      "description": "Discover mouthwatering recipes from around the world that will tantalize your taste buds and leave you craving for more.",
+      "likes_count": 300012
+    },
+    {
+      "id": 3,
+      "title": "Fitness Motivation",
+      "description": "Get inspired to reach your fitness goals with expert tips, workout routines, and success stories from fitness enthusiasts.",
+      "likes_count": 180
+    },
+    {
+      "id": 4,
+      "title": "Artistic Creations",
+      "description": "Explore the beauty of art through breathtaking masterpieces and innovative creations by talented artists.",
+      "likes_count": 280
+    },
+    {
+      "id": 5,
+      "title": "Tech Updates",
+      "description": "Stay informed about the latest technological advancements, gadgets, and breakthroughs shaping the future.",
+      "likes_count": 320
+    },
+    {
+      "id": 6,
+      "title": "Nature's Wonders",
+      "description": "Immerse yourself in the splendor of nature's wonders, from serene landscapes to magnificent wildlife.",
+      "likes_count": 2200
+    }
+  ]
+}
